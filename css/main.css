@@ -1,6 +1,6 @@
 html {
   font-family: Overpass, sans-serif;
-  background: linear-gradient(to bottom, #ff9500, #ff5e3a) left top / cover no-repeat;
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
   color: #fff;
 }
 
